@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.3",
   "info": {
-    "title": "Book Store API Documentation",
+    "title": "Book Store API Doc",
     "description": "This is a sample of Book store site server based on the OpenAPI 3.0 specification. You can find out more about\nSwagger at [https://swagger.io](https://swagger.io). In the third iteration of the bokep site, we've switched to the design first approach!\n\nYou can now help us improve the API whether it's by making changes to the definition itself or to the code.\nThat way, with time, we can improve the API in general, and expose some of the new features in OAS3.\n\n_If you're looking for the Swagger 2.0/OAS 2.0 version of Petstore, then click [here](https://editor.swagger.io/?url=https:/- Bookstore.swagger.io/v2/swagger.yaml). Alternatively, you can load via the `Edit > Load Petstore OAS 2.0` menu option!_\n\nSome useful links:\n- [Life Nature Library THE MAMMALS](https://shopee.co.id/product/37386874/553825462?gad_source=4&gclid=EAIaIQobChMI4rXduqSLgwMVwqJmAh3IUgreEAQYBCABEgLdNvD_BwE)\n- [The Selfish Gene: 40th Anniversary edition](https://www.amazon.co.uk/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606/ref=sr_1_1?crid=CHBI4CS6C0DH&keywords=selfish+gene&qid=1702431815&sprefix=selfish+gene%2Caps%2C425&sr=8-1)\n- [Sapiens: Brief History of Humand Kind](https://www.amazon.co.uk/Sapiens/dp/B00VXKB596/ref=sr_1_1?crid=20EM9J681V3FR&keywords=sapiens&qid=1702431878&sprefix=sapiens%2Caps%2C445&sr=8-1)",
     "termsOfService": "http://swagger.io/terms/",
     "contact": {
